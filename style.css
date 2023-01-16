@@ -1,0 +1,15 @@
+@media screen and (min-width:1000px){
+        .hero1{
+        background-image: url('./img/rode-rodecaster-pro-II-home-page-1920x700-rgb.jpg');
+        height: 100vh;
+        margin-top: 10px;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero2{
+        background-image: url('./img/rode-nth100-lifestyle-insitu-female-looking-down-grey-1920x700-rgb.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+}
