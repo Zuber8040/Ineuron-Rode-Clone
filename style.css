@@ -1,15 +1,31 @@
 @media screen and (min-width:1000px){
-        .hero1{
-        background-image: url('./img/rode-rodecaster-pro-II-home-page-1920x700-rgb.jpg');
+    .hero1{
+        background-image: url('./img/vmgoii-homepage-banner-3.png');
         height: 100vh;
         margin-top: 10px;
         background-position: center;
         background-size: cover;
     }
     .hero2{
+        background-image: url('./img/ntusbplus-homepage-banner-1920x700.jpg');
+        height: 100vh;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero3{
+        background-image: url('./img/rode-rodecaster-pro-II-home-page-1920x700-rgb.jpg');
+        height: 100vh;
+        margin-top: 0px;
+        background-position: center;
+        background-size: cover;
+    }
+    .hero4{
         background-image: url('./img/rode-nth100-lifestyle-insitu-female-looking-down-grey-1920x700-rgb.jpg');
         height: 100vh;
         background-position: center;
         background-size: cover;
+    }
+    .hero3{
+
     }
 }
