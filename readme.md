@@ -42,7 +42,7 @@ Go to the project directory
 - Clone Website
 - Hosted on Netlify and set up in production
 
-![Live]()
+[Live](https://zuber8040.github.io/Ineuron-Rode-Clone/)
 
 ## What i have learnt By working on this project
 1. Got a hands on experience in useing tailwind components and build in fast pace.
