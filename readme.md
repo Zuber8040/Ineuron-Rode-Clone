@@ -12,11 +12,8 @@ Hope you like my project !!
 ## 🚩 Demo
 
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster='img\Screenshot 2023-01-17 225459.png'>
-    <source src="img\RØDE Microphones _ Premium Microphones & Audio Equipment - Brave 2023-01-17 22-42-54.mp4" type="video/mp4">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/72431298/212975195-9043fc54-5920-4003-8dbf-9fc570b15c01.mp4
+
 
 
 ## Run Locally
